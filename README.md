@@ -115,13 +115,9 @@ CLOUD_API_SECRET=your-cloudinary-api-secret
 - Multiple listing images
 - Advanced filtering and sorting
 
-## 👤 Author
-
 ## 👨‍💻 Author
 
 **Aditya Bhakad**
 
 GitHub:
 https://github.com/adityabhakad
-
-
