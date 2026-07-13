@@ -108,10 +108,10 @@ CLOUD_API_SECRET=your-cloudinary-api-secret
 
 ## 🔮 Future Improvements
 
+- User profile page
 - Wishlist feature
 - Booking functionality
 - Online payment integration
-- User profile page
 - Multiple listing images
 - Advanced filtering and sorting
 
