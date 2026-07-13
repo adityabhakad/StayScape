@@ -80,7 +80,7 @@ footer {
 
 .search-inp {
     height: 100% !important;
-    width: clamp(12.5rem, 24vw, 20.25rem) !important;
+    width: clamp(12rem, 19vw, 16rem) !important;
     min-width: 0;
     border: 1px solid #d9dee5 !important;
     border-radius: 999px !important;
